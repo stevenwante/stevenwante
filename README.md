@@ -82,7 +82,7 @@ Created alerting automations and improved health visibility across critical syst
 
 ## 🧩 Certifications
 - Microsoft Azure Administrator Associate - **in training** (AZ‑104)
-- Certified Information Systems Security Professional (CISSP)
+- Certified Information Systems Security Professional (CISSP) 2024-2027
 
 
 <!--
